@@ -1,4 +1,3 @@
-# github desktop check
 import csv
 import re
 import numpy as np
